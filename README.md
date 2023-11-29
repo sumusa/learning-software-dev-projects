@@ -4,6 +4,6 @@ This repository is a collection of projects I'm working on as part of my journey
 
 ## Project List:
 
-1. [Basic Recipe Website](https://sumusa.github.io/recipe-project/) | [Code](https://github.com/sumusa/recipe-project)
-2. [Landing Page](https://sumusa.github.io/landing-page/) | [Code](https://github.com/sumusa/landing-page)
-3. [Simple Calendar App](https://sumusa.github.io/simple-calendar-app/) | [Code](https://github.com/sumusa/simple-calendar-app)
+1. Food Recipe Website - [Live Preview](https://sumusa.github.io/recipe-project/) || [View Code](https://github.com/sumusa/recipe-project)
+2. Personal Landing Page - [Live Preview](https://sumusa.github.io/landing-page/) || [View Code](https://github.com/sumusa/landing-page)
+3. Simple Calendar Web App - [Live Preview](https://sumusa.github.io/simple-calendar-app/) || [View Code](https://github.com/sumusa/simple-calendar-app)
